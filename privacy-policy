@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datenschutzerklärung – BPSF</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; margin: 1rem; line-height: 1.5; }
+    h1, h2 { color: #2a6f2a; }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <p>Stand: 03.05.2025</p>
+  <p>Diese App (BPSF) erhebt keine personenbezogenen Daten. Alle Daten bleiben ausschließlich auf deinem Gerät.</p>
+  <h2>Kontakt</h2>
+  <p>Bei Fragen zum Datenschutz schreibe an: <a href="mailto:g.carvalgo210301@gmail.com">https://gilbpsf.github.io/bpsf-support/</a>.</p>
+</body>
+</html>
